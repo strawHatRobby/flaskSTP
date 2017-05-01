@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Fully working student teqacher portal
 
 ## Just do the following
@@ -26,3 +27,7 @@ if you are planning to run this on a real server make sure you configure the ser
 
 
 
+=======
+# flaskSTP
+Fully functional flask app
+>>>>>>> 765ed276ca080280ddb2c9c9639f4bb6ed488d8c
